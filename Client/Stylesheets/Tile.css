@@ -1,0 +1,9 @@
+.tileButton{
+    box-shadow: 5px 5px 10px  rgb(117, 112, 97);
+    height: 90%;
+    width: 80%; 
+}
+.tileButton:hover{
+   transform: scale(1.05);
+   
+}

@@ -1,0 +1,18 @@
+{
+  "name": "idaiserver",
+  "version": "1.0.0",
+  "description": "An unofficial content sharing app for the Department of Applied Informatics of University of Macedonia.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": ""
+  },
+  "author": "Topalidis Dimitrios",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "googleapis": "^39.2.0",
+    "nodemon": "^2.0.2"
+  }
+}

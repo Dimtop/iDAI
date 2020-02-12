@@ -1,0 +1,5 @@
+/Client/node_modules
+/Server/node_modules
+/Client/dist
+/Client/build
+/Server/Resources
